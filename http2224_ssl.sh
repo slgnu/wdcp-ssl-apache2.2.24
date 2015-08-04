@@ -1,7 +1,7 @@
 #!/bin/bash
 # mysql innodb install scripts
-# Author:wdlinux
-# Url http://www.wdlinux.cn
+# Author:alleysakura
+# Url https://alleysakura.com
 
 if [ ! -f /usr/bin/gcc ];then
         yum install -y gcc gcc-c++ make autoconf libtool-ltdl-devel gd-devel freetype-devel libxml2-devel libjpeg-devel libpng-devel openssl-devel curl-devel patch libmcrypt-devel libmhash-devel ncurses-devel sudo bzip2
