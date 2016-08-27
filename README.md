@@ -8,9 +8,3 @@
 官方2.2.22地址: http://down.wdlinux.cn/in/http2222_ssl.sh
 
 这里是2.2.24版本的，查看版本在看这个文件夹 /www/wdlinux
-
-Blog : https://alleysakura.com
-
-E-mail: sakura@alleysakura.com
-
-2015/07/15
